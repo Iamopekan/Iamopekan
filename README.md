@@ -9,9 +9,9 @@ Hi, I'm Ope, I'm an architect by profession, a brand designer by curiosity and l
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Instagram](http://www.instagram.com/brandhive_inc)
 * ✉️  You can contact me at [danope4u@gmail.com](mailto:danope4u@gmail.com)
-* 🧠  I'm learning I'm currently learning full stack web development and python
-* 🤝  I'm open to collaborating on I'm open to collaborate on architectural and 3d designs, brand design briefs and also some web dev jobs
-* ⚡  I created some nft artworks on my opensea, kindly check them out on opensea.io/iamopekan. I am a crazy fan of animes and manga's
+* 🧠  I'm currently learning full stack web development and python
+* 🤝  I'm open to collaborate on architectural and 3d designs, brand design briefs and also some web dev jobs
+* ⚡  I created some nft artworks on my opensea, kindly check them out on opensea.io/iamopekan. A fan of animes and manga's
 
 <a href="https://www.twitter.com/iamopekan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iamopekan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
