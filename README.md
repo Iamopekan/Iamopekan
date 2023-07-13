@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ope Ajayi
 =================================================================================================================================
 
-Aspiring Full Stack Web Dev x Brand Designer x Architect
+Aspiring Full Stack Web Dev x Brand Designer x ui designer x Architect
 --------------------------------------------------------
 
-I am migrating from architecture to tech, self learning full stack web development for the past 3months now, I'm an architect by profession, a brand designer by curiosity and love. I'm Ready to collaborate.
+I am migrating from architecture to tech, self learning full stack web development and ui/ux for the past 4months now, I'm an architect by profession, a brand designer by curiosity and love. I'm Ready to collaborate.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [here](http://instagram.com/brandhive_inc)
+* 🖥️  See my all i can do for your perusal at [here](http://linktr.ee/iamopekan)
 * ✉️  You can contact me at [ope.danielajayi@gmail.com](mailto:ope.danielajayi@gmail.com)
-* 🧠  I'm learning Full stack Web Development and python
+* 🧠  I'm learning Full stack Web Development, ui/ux and python
 * 🤝  I'm open to collaborating on Interesting projects ranging from brand identities, 3d renderings and web dev
-* ⚡  I created some nft artworks kindly check them out on www.opensea.io/iamopekan. A fan of animes and manga's
+* ⚡  A big fan of animes and manga's
 
 <a href="https://www.twitter.com/iamopekan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iamopekan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"
@@ -21,14 +21,12 @@ src="https://img.shields.io/github/followers/iamopekan?logo=github&style=for-the
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
 
