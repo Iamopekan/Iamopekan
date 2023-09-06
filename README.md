@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ope Ajayi
 =================================================================================================================================
 
-Aspiring Full Stack Web Dev x Brand Designer x ui designer x Architect
+Brand Designer x UI Designer x Architect x Aspiring Full Stack Web Dev
 --------------------------------------------------------
 
-I am migrating from architecture to tech, self learning full stack web development and ui/ux for the past 4months now, I'm an architect by profession, a brand designer by curiosity and love. I'm Ready to collaborate.
+I have been migrating from architecture to tech, self-learning full stack web development and UI/UX for the past 4months now, I'm an architect by profession and a brand designer by curiosity and love. I'm Ready to collaborate.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my all i can do for your perusal at [here](http://linktr.ee/iamopekan)
+* 🖥️  See all I can do for your perusal at [here](http://linktr.ee/iamopekan)
 * ✉️  You can contact me at [ope.danielajayi@gmail.com](mailto:ope.danielajayi@gmail.com)
-* 🧠  I'm learning Full stack Web Development, ui/ux and python
-* 🤝  I'm open to collaborating on Interesting projects ranging from brand identities, 3d renderings and web dev
+* 🧠  I'm learning Full stack Web Development, UI/ux and python
+* 🤝  I'm open to collaborating on Interesting projects ranging from brand identities, 3D renderings and web dev
 * ⚡  A big fan of animes and manga's
 
 <a href="https://www.twitter.com/iamopekan" target="_blank" rel="noreferrer"><img
